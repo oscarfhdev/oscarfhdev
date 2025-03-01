@@ -45,3 +45,16 @@ I love solving problems, learning new technologies, and creating **innovative an
 [![Gmail](https://img.shields.io/badge/oscarfh.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oscarfh.dev@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/408188255159189517)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%B3scar-fern%C3%A1ndez-hern%C3%A1ndez-7a6069351?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2B9mELkjwStyelFY2eZdamg%3D%3D)
+
+---
+
+## By the way, here are some of my statistics 🚀
+
+<div style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=oscarfhdev&show_icons=true&theme=tokyonight" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarfhdev&theme=tokyonight&layout=compact" />
+</div>
+
+
+
