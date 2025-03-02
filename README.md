@@ -50,9 +50,8 @@ I love solving problems, learning new technologies, and creating **innovative an
 
 ## By the way, here are some of my statistics 🚀
 <div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=oscarfhdev&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=oscarfhdev&show_icons=true&count_private=true&include_all_commits=true&theme=transparent" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarfhdev&theme=transparent&layout=compact" />
 </div>
-
 
