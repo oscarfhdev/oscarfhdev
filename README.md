@@ -52,7 +52,7 @@ I love solving problems, learning new technologies, and creating **innovative an
 <div style="display: flex;">
   <p align="center">
     <img height="195px" src="https://github-readme-stats.vercel.app/api?username=oscarfhdev&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;
     <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarfhdev&theme=transparent&layout=compact&include_all_commits=true&count_private=true"/>
   </p>
   <p align="center">
