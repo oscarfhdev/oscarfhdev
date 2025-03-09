@@ -49,14 +49,13 @@ I love solving problems, learning new technologies, and creating **innovative an
 ---
 
 ## By the way, here are some of my statistics 🚀
-<div style="display: flex;">
+<div style="display: flex">
   <p align="center">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=oscarfhdev&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-    &nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api?username=oscarfhdev&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
     <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarfhdev&theme=transparent&layout=compact&include_all_commits=true&count_private=true"/>
   </p>
   <p align="center">
-    <img height="195px" src="https://git-hub-streak-stats.vercel.app/?user=oscarfhdev&theme=transparent"/>
+    <img src="https://git-hub-streak-stats.vercel.app/?user=oscarfhdev&theme=transparent"/>
   </p>
 </div>
 
