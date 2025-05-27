@@ -44,7 +44,7 @@ I love solving problems, learning new technologies, and creating **innovative an
 ## 📩 Contact Me  
 [![Gmail](https://img.shields.io/badge/oscarfh.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oscarfh.dev@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/408188255159189517)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%B3scar-fern%C3%A1ndez-hern%C3%A1ndez-7a6069351?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2B9mELkjwStyelFY2eZdamg%3D%3D)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscarfhdev/)
 
 ---
 
