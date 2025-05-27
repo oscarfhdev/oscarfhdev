@@ -5,14 +5,16 @@
 Welcome to my GitHub profile! 🚀  
 
 ## 👨‍💻 About Me  
-I am a **Development of Multiplatform Applications (DAM) student**, passionate about the world of programming.
-I love solving problems, learning new technologies, and creating **innovative and efficient** solutions.
+I am a **Multiplatform Application Development (DAM)** student passionate about programming and software development.  
+I enjoy solving real-world problems through code, exploring new technologies, and building **clean, efficient, and scalable** solutions.
 
-- 🌱 I’m currently learning ...
-  - Spring
-  - JavaScript
-  - SASS
-- 👯 I’m looking forward to collaborate on open source projects.
+- 🌱 Currently learning:
+  - Angular
+  - JavaScript (deep dive)
+  - Spring Framework
+- 🤝 Looking to collaborate on open-source and student-led projects
+
+---
 
 ## My Skills Include
 
